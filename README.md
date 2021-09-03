@@ -107,7 +107,7 @@ button.addEventListener('click', function(event) {
 button.addEventListener('click', function(event) {
     if (count == 0) {
         warning.style.backgroundColor="red";
-		button.innerHTML = "Clear warning";
+	button.innerHTML = "Clear warning";
     }
 ```
 
@@ -119,8 +119,8 @@ button.addEventListener('click', function(event) {
 button.addEventListener('click', function(event) {
     if (count == 0) {
         warning.style.backgroundColor="red";
-		button.innerHTML = "Clear warning";
-		count ++ ;
+	button.innerHTML = "Clear warning";
+	count ++ ;
     }
 ```
 
