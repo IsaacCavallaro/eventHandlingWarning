@@ -156,6 +156,6 @@ else {
 else {
         warning.style.backgroundColor="";
         button.innerHTML = "Make it red";
-		count -- ;
+	count -- ;
     }
 ```
